@@ -1,0 +1,17 @@
+How to initiate Reactjs or install?
+Differentiate between Real DOM and Virtual DOM.
+What are the different phases of React component’s lifecycle?
+var, let, const
+Differentiate between states and props.
+shouldComponentUpdate v/s
+What do you understand by refs in React?
+When we close page, what component is called?
+What is Redux?
+What are the three principles that Redux follows?
+What are "key" props and what is the benefit of using them in arrays of elements?
+How we pass any value from child to parent & parent to child?
+What is lazy loading?
+Latest version you are using?
+sync & async?
+map & forEach?
+What is React Router?
